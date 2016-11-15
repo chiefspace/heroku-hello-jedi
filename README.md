@@ -1,8 +1,8 @@
-# < PROJECT NAME GOES HERE >
+# < hello-jedi for deployment to Heroku >
 
-# Pre-work - *PROGRAM-NAME*
+# Pre-work - *Deploying Flask apps on Heroku - Thinkful Python Programming Unit 3 Lesson 3 Project 4*
 
-**PROGRAM-NAME** is an - write a short description.
+**hello-jedi for deployment to Heroku** is an app that will display your jedi name and a star-wars-ey picture.
 
 Submitted by: **Ben Altieri**
 
@@ -12,9 +12,7 @@ Time spent: **0** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can **successfully add and remove items** from X
-* [ ] User can **blah blah blah** and then have any changes to the text reflected in the blah blah.
-* [ ] User can **blah blah blah** and retrieve them properly on app restart
+* [x] User can **See their jedi name by browsing to https://intense-sea-37437.herokuapp.com/jedi/firsname/lastname/ ** 
 
 The following **optional** features are implemented:
 
