@@ -1,19 +1,29 @@
-# < Hello World and Jedi Name Web Page >
+# < PROJECT NAME GOES HERE >
 
-# Pre-work - *jedi_hello_world.py*
+# Pre-work - *PROGRAM-NAME*
 
-**JEDI_HELLO_WORLD** is an - write a short description.
+**PROGRAM-NAME** is an - write a short description.
 
 Submitted by: **Ben Altieri**
 
-Time spent: **1** hours spent in total
+Time spent: **0** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-* [x] User can **successfully view his or her jedi name when browsing to the app:8080/jedi/firsname/lastname** from X
-http://baltieri-tf-py1-chiefspace.c9users.io:8080/jedi/ben/altieri/
+* [ ] User can **successfully add and remove items** from X
+* [ ] User can **blah blah blah** and then have any changes to the text reflected in the blah blah.
+* [ ] User can **blah blah blah** and retrieve them properly on app restart
+
+The following **optional** features are implemented:
+
+* [ ] Persist the blah blah items [into SQLite](http://google.com) instead of a text file
+* [ ] Improve style of the blah blah items in the list [using a custom adapter](http://google.com)
+* [ ] Add support for completion due dates for blah blah items (and display within listview item)
+* [ ] Use a [DialogFragment](http://google.com) instead of new Activity for editing items
+* [ ] Add support for selecting the priority of each blah blah item (and display in listview item)
+* [ ] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
 The following **additional** features are implemented:
 
